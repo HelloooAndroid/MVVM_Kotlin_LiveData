@@ -1,0 +1,2 @@
+rootProject.name='MVVM_Kotlin_LiveData'
+include ':app'
